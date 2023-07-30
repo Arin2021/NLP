@@ -57,9 +57,6 @@ Run the `sentiment_analysis.py` script to train the sentiment analysis model and
 - Training and validation accuracy can be visualized using Seaborn.
 - A confusion matrix heatmap displays model predictions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
